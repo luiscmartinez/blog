@@ -13,9 +13,9 @@ const noConfig = variable => {
 module.exports = {
     TITLE: 'Metaphysices' || noConfig('TITLE'), // Required
     AUTHOR: 'The End Science' || noConfig('AUTHOR'), // Required
-    URL: 'http://localhost:8000' || noConfig('URL'), // Required
+    URL: 'http://www.theendsciencemetaphysics.com' || noConfig('URL'), // Required
     EMAIL: 'mrhellboy1773@gmail.com' || noConfig('EMAIL'), // Required
-    DESCRIPTION: 'TESTING' || noConfig('DESCRIPTION'), // Required
+    DESCRIPTION: 'blog posts about Metaphysices' || noConfig('DESCRIPTION'), // Required
     FATHOMSITEID: 'FATHOMSITEID' || noConfig('FATHOMSITEID'), // Required
     DISQUSSHORTNAME: 'DISQUSSHORTNAME' || noConfig('DISQUSSHORTNAME'), // Required
 };
