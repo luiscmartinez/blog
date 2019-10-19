@@ -43,10 +43,12 @@ class BlogPostTemplate extends React.Component {
                             {next && (
                                 <div className="next-post">
                                     <Link to={next.fields.slug} rel="next">
-                                        <img
-                                            className="next-post-image"
-                                            src={`/images/previews/${next.frontmatter.key}.png`}
-                                        />
+                                        {next.frontmatter.key && (
+                                            <img
+                                                className="next-post-image"
+                                                src={`/images/previews/${next.frontmatter.key}.png`}
+                                            />
+                                        )}
                                         <div className="next-post-link">
                                             <div className="post-link-subtext">
                                                 Next Post →
@@ -59,10 +61,12 @@ class BlogPostTemplate extends React.Component {
                             {previous && (
                                 <div className="prev-post">
                                     <Link to={previous.fields.slug} rel="prev">
-                                        <img
-                                            className="prev-post-image"
-                                            src={`/images/previews/${previous.frontmatter.key}.png`}
-                                        />
+                                        {previous.frontmatter.key && (
+                                            <img
+                                                className="prev-post-image"
+                                                src={`/images/previews/${previous.frontmatter.key}.png`}
+                                            />
+                                        )}
                                         <div className="prev-post-link">
                                             <div className="post-link-subtext">
                                                 ← Previous post
