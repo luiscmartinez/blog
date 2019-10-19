@@ -7,9 +7,11 @@ key: 'introduction'
 
 # Introduction to The Way
 
+![Heaven's Scroll](https://vutruhuyenbi.com/attachment/articles/heavenly_scroll_rain.png)
+
 In the past, around 30 years ago, we have propagated the Secret Religion under the name of Secret Buddhism. However, we have gone beyond Buddhism to effectively initiate people of all faiths, allowing them to pray to their religious leaders in the initiation ritual, usually in five to 10 minutes, many people have received the supernatural force, have opened the third eye, or have experienced astral body traveling among other extraordinary feelings, sensation of smell, vision, auditory...etc..
 
-Our initiation ritual is always free.
+To become a student of The Reasoning of The Way, contact me
 
 This is the sacred Yantra representing the five Buddhas at the five corners of the universe.
 
