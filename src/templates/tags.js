@@ -46,7 +46,6 @@ export const pageQuery = graphql`
             }
         }
         allMarkdownRemark(
-            filter: { frontmatter: { tags: { in: [$tag] } } }
             limit: $limit
             skip: $skip
             sort: { fields: [frontmatter___date], order: DESC }
@@ -59,7 +58,6 @@ export const pageQuery = graphql`
                     }
                     frontmatter {
                         title
-                        tags
                         date(formatString: "DD MMMM, YYYY")
                         key
                     }

@@ -29,15 +29,6 @@ class PostMatter extends React.Component {
                         &nbsp;&nbsp;
                         {`Published on ${this.props.post.date}`}
                     </div>
-                    <div className="post-tags">
-                        {this.props.post.tags.map(tag => (
-                            <div key={tag} className="post-tag">
-                                <Link to={`/tags/${kebabCase(tag)}`}>
-                                    {tag}
-                                </Link>
-                            </div>
-                        ))}
-                    </div>
                 </div>
                 <div className="post-preview">
                     {this.state.img && (

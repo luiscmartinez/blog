@@ -9,7 +9,6 @@ exports.createPages = ({ graphql, actions }) => {
     return new Promise((resolve, reject) => {
         const blogPost = path.resolve('./src/templates/blog-post.js');
         const blogIndex = path.resolve('./src/templates/index.js');
-        const blogTag = path.resolve('./src/templates/tags.js');
         const postsInAPage = 5;
         resolve(
             graphql(
@@ -26,7 +25,6 @@ exports.createPages = ({ graphql, actions }) => {
                                     }
                                     frontmatter {
                                         title
-                                        tags
                                         key
                                     }
                                 }
@@ -70,47 +68,6 @@ exports.createPages = ({ graphql, actions }) => {
                             previous,
                             next,
                         },
-                    });
-                });
-                const tagMap = {};
-                _.each(posts, edge => {
-                    if (_.get(edge, 'node.frontmatter.tags')) {
-                        for (tag of edge.node.frontmatter.tags) {
-                            if (tagMap[tag]) {
-                                tagMap[tag] += 1;
-                            } else {
-                                tagMap[tag] = 1;
-                            }
-                        }
-                    }
-                });
-                Object.keys(tagMap).forEach(tag => {
-                    const tagPageCount = Math.ceil(tagMap[tag] / postsInAPage);
-                    _.times(tagPageCount, index => {
-                        createPage({
-                            path: paginationPath(
-                                index,
-                                tagPageCount,
-                                `/tags/${_.kebabCase(tag)}/`
-                            ),
-                            component: blogTag,
-                            context: {
-                                tag: tag,
-                                skip: index * postsInAPage,
-                                limit: postsInAPage,
-                                tagPageCount,
-                                prevPath: paginationPath(
-                                    index - 1,
-                                    tagPageCount,
-                                    `/tags/${_.kebabCase(tag)}/`
-                                ),
-                                nextPath: paginationPath(
-                                    index + 1,
-                                    tagPageCount,
-                                    `/tags/${_.kebabCase(tag)}/`
-                                ),
-                            },
-                        });
                     });
                 });
             })
