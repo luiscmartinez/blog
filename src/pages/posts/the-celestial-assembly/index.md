@@ -1,7 +1,7 @@
 ---
 title: The Celestial Assembly
 tags: []
-date: '2019-10-19T00:00:00.000Z'
+date: '2019-10-19T01:00:00.000Z'
 key: 'the-celestial-assembly'
 ---
 
