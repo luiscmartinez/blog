@@ -1,7 +1,7 @@
 ---
 title: Preface
 tags: []
-date: '2019-09-19T01:00:00.000Z'
+date: '2019-10-18T01:00:00.000Z'
 key: 'preface'
 ---
 
@@ -61,7 +61,7 @@ The University of Metaphysics {is your brilliant future, winning }
 
 4.
 
-NO DEGREE in metaphysices = { no future, you are buried in your unsolved bad karma, with little happiness and a lot of [pain, misery] } for thousands of years
+NO DEGREE in Metaphysics = { no future, you are buried in your unsolved bad karma, with little happiness and a lot of [pain, misery] } for thousands of years
 
 Who would want to countine this for thousands of years ? 
 
