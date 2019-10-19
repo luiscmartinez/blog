@@ -29,17 +29,17 @@ The University of Metaphysics {is your brilliant future, winning }
 
 2.5 Different { Parents, Fathers, Mothers }
 
-2.6 You Might Be In Different { Coutinents }
+2.6 You Might Be In Different { Continents }
 
 2.7 You Might Be In Different { Countries }
 
 2.8 You May Play Different { Roles }
 
-2.9 Different [Problems] { money, finacial future, job securtiy, worriness, depression, stress, unhappiness, difficulties, trouble, bad luck, accident, danger, catastrophy, disaster, sickness, disease }
+2.9 Different [Problems] { money, financial future, job security, worriedness, depression, stress, unhappiness, difficulties, trouble, bad luck, accident, danger, catastrophe, disaster, sickness, disease }
 
-2.10 Your accumulation of unsloved pasted { Bad Actions } piles to be as big as a mountain  
+2.10 Your accumulation of unsolved pasted { Bad Actions } piles to be as big as a mountain
 
-2.11 Until you { GET TIRED, SCARED } to be human being  => { Then in the infinity, infinite. You look for the degree of Metaphysics } => tiredness and scaryness
+2.11 Until you { GET TIRED, SCARED } to be human being => { Then in the infinity, infinite. You look for the degree of Metaphysics } => tiredness and scaryness
 
 2.12 You age is not your age. You are thousands of years old.
 
@@ -63,7 +63,7 @@ The University of Metaphysics {is your brilliant future, winning }
 
 NO DEGREE in Metaphysics = { no future, you are buried in your unsolved bad karma, with little happiness and a lot of [pain, misery] } for thousands of years
 
-Who would want to countine this for thousands of years ? 
+Who would want to continue this for thousands of years ?
 
 Human Being has the choice to { be smart, be wise, use intelligence }
 
