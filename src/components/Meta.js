@@ -24,7 +24,9 @@ const Meta = ({ metadata }) => {
             <meta property="og:title" content={metadata.title} />
             <meta
                 property="og:image"
-                content={metadata.image || '/images/preview.png'}
+                content={
+                    'https://i.imgur.com/yHDpur8.png' || '/images/preview.png'
+                }
             />
             <meta property="og:description" content={metadata.description} />
             <meta name="twitter:card" content="summary_large_image" />
@@ -33,14 +35,15 @@ const Meta = ({ metadata }) => {
             <meta name="twitter:description" content={metadata.description} />
             <meta
                 name="twitter:image"
-                content={`${metadata.siteUrl}${metadata.image ||
-                    '/images/preview.png'}`}
+                content={'https://i.imgur.com/yHDpur8.png'}
             />
             <meta itemprop="name" content={metadata.title} />
             <meta itemprop="description" content={metadata.description} />
             <meta
                 itemprop="image"
-                content={metadata.image || '/images/preview.png'}
+                content={
+                    'https://i.imgur.com/yHDpur8.png' || '/images/preview.png'
+                }
             />
 
             <meta
