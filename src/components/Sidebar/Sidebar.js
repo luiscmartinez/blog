@@ -62,7 +62,7 @@ class Sidebar extends React.Component {
                             id="actualdp"
                             className={this.state.dpHover ? 'fade-in' : ''}
                         >
-                            <img src="/images/heavenly_scroll_rain.png" />
+                            <img src="https://vutruhuyenbi.com/attachment/articles/heavenly_scroll_rain.png" />
                         </div>
                     </div>
                     <div className="sidebartext">
