@@ -13,8 +13,8 @@ const noConfig = variable => {
 module.exports = {
     TITLE: 'Metaphysices' || noConfig('TITLE'), // Required
     AUTHOR: 'The End Science' || noConfig('AUTHOR'), // Required
-    URL: 'http://www.theendsciencemetaphysics.com' || noConfig('URL'), // Required
-    EMAIL: 'mrhellboy1773@gmail.com' || noConfig('EMAIL'), // Required
+    URL: 'https://www.theendsciencemetaphysics.com' || noConfig('URL'), // Required
+    EMAIL: 'mrluismartinezzz@gmail.com' || noConfig('EMAIL'), // Required
     DESCRIPTION: 'blog posts about Metaphysices' || noConfig('DESCRIPTION'), // Required
     FATHOMSITEID: 'FATHOMSITEID' || noConfig('FATHOMSITEID'), // Required
     DISQUSSHORTNAME: 'DISQUSSHORTNAME' || noConfig('DISQUSSHORTNAME'), // Required
