@@ -17,5 +17,5 @@ module.exports = {
     EMAIL: 'mrluismartinezzz@gmail.com' || noConfig('EMAIL'), // Required
     DESCRIPTION: 'blog posts about Metaphysics' || noConfig('DESCRIPTION'), // Required
     FATHOMSITEID: 'FATHOMSITEID' || noConfig('FATHOMSITEID'), // Required
-    DISQUSSHORTNAME: 'DISQUSSHORTNAME' || noConfig('DISQUSSHORTNAME'), // Required
+    DISQUSSHORTNAME: 'theendsciencemetaphysics' || noConfig('DISQUSSHORTNAME'), // Required
 };

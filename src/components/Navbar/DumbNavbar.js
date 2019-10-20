@@ -22,8 +22,8 @@ class DumbNavbar extends React.Component {
                 </div>
                 <div id="fullname">
                     <Link to="/" className="natural-link">
-                        <span id="firstname">arvind </span>
-                        <span id="lastname">kumar</span>
+                        <span id="firstname">The End Science </span>
+                        <span id="lastname"></span>
                     </Link>
                 </div>
             </div>
