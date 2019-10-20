@@ -15,7 +15,7 @@ module.exports = {
     AUTHOR: 'The End Science' || noConfig('AUTHOR'), // Required
     URL: 'https://www.theendsciencemetaphysics.com' || noConfig('URL'), // Required
     EMAIL: 'mrluismartinezzz@gmail.com' || noConfig('EMAIL'), // Required
-    DESCRIPTION: 'blog posts about Metaphysices' || noConfig('DESCRIPTION'), // Required
+    DESCRIPTION: 'blog posts about Metaphysics' || noConfig('DESCRIPTION'), // Required
     FATHOMSITEID: 'FATHOMSITEID' || noConfig('FATHOMSITEID'), // Required
     DISQUSSHORTNAME: 'DISQUSSHORTNAME' || noConfig('DISQUSSHORTNAME'), // Required
 };

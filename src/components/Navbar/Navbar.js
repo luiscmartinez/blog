@@ -103,7 +103,7 @@ class Navbar extends React.Component {
                 <div id="fullname">
                     <Link to="/" className="natural-link">
                         <span id="firstname">The End Science: </span>
-                        <span id="lastname">Metaphysices</span>
+                        <span id="lastname">Metaphysics</span>
                     </Link>
                 </div>
                 <div id="sitename">
