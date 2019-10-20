@@ -7,7 +7,7 @@ key: 'Why-The-University-of-Metaphysics'
 
 # Why The University of Metaphysics
 
-[Why The University of Metaphysics](https://i.imgur.com/aWqaC6A.png)
+![Why The University of Metaphysics](https://i.imgur.com/aWqaC6A.png)
 
 -[ ] Going through many lives => accumulating little blessing => God leads to meet The University => test on {Intelligence, Compassion, Bravery } knowledge of Metaphysics => help people
 
