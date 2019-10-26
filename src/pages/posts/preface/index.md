@@ -11,55 +11,10 @@ key: 'preface'
 
 Meta = is over and beyond. Metaphysics = is over and beyond physics.
 
-The University of Metaphysics { [solves your unsolved pasted bad action] , [gives you degree for your qualification to work at { assigned plant }]
+Meta = is over and beyond. 
+Metaphysics = is over and beyond physics.
 
-The University of Metaphysics {is your brilliant future, winning }
-
-2. [NO DEGREE] === causing you to be here on Earth many times === resulting in you being thousands of years old
-
-[NO DEGREE] ⬅️ because { you only keep running after THE MEAN (-) }
-
-[NO DEGREE] ⬅️ because { you keep missing THE END = attending The University of Metaphysics }
-
-2.2 You are here many times on Earth
-
-2.3 Female or Male
-
-2.4 With Different { Families }
-
-2.5 Different { Parents, Fathers, Mothers }
-
-2.6 You Might Be In Different { Continents }
-
-2.7 You Might Be In Different { Countries }
-
-2.8 You May Play Different { Roles }
-
-2.9 Different [Problems] { money, financial future, job security, worriedness, depression, stress, unhappiness, difficulties, trouble, bad luck, accident, danger, catastrophe, disaster, sickness, disease }
-
-2.10 Your accumulation of unsolved pasted { Bad Actions } piles to be as big as a mountain
-
-2.11 Until you { GET TIRED, SCARED } to be human being => { Then in the infinity, infinite. You look for the degree of Metaphysics } => tiredness and scaryness
-
-2.12 You age is not your age. You are thousands of years old.
-
-3. [Human Nature]
-
-3.1 Human being is SMALL AS DUST. Flying nowhere in the universe.
-
-3.2 WEAK.
-
-3.3 Incapable
-
-3.4 WORTHLESS as trash
-
-3.5 ROBOTIC human being. We are an [invention]. Build from our [bad karma].
-
-3.6 SMALL as an ant
-
-3.7 AS a child
-
-4.
+Like most of us in this world I would only cultivate the one type of knowledge. The knowledge of the book, that helps us contribute and be useful to society. The study of computers, medicine, engineering are all for human means. All fields of all studies are documented by human beings for the benefit of means to the human race. Until, I was taught the second type of knowledge. The knowledge of the universe. Exactly how every person that wanted a degree in the field of knowledge/study of their desire, they had to go through an education program. The same principle applies to learn the knowledge of the universe.  The educational program to learn the knowledge of the universe is called The University of Metaphysics. During this High Cycle era anybody can connect to the higher beings. Readers that would want to be initiated to learn the knowledge that is required to pass test at the end of life must hurry. to contact the Higher Beings according to one’s own faith  and from there to learn about the supernatural realm’s principles. This is the knowledge of The Creator  that is everyones needs. But this era is coming to an end. The University of The Creator that opened in 2008 is now closed. The ship that carries all students of The University, began voyage but now weighs an anchor. Parks off shore, but is ready to voyage to heaven. But the timer of the new high cycle end has not hit zero just yet. Therefore, if a persons wants to be on board, must now use a row boat to reach the big ship. 
 
 NO DEGREE in Metaphysics = { no future, you are buried in your unsolved bad karma, with little happiness and a lot of [pain, misery] } for thousands of years
 
@@ -68,5 +23,3 @@ Who would want to continue this for thousands of years ?
 Human Being has the choice to { be smart, be wise, use intelligence }
 
 Ought to seek { admission, approval } from The University of Metaphysics. Attend when you are ready.
-
-Your {ancestors or higher power} will help you with your admission to The University of Metaphysics.
