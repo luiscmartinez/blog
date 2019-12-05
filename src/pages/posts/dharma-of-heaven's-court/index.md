@@ -1,7 +1,7 @@
 ---
 title: Dharma of Heaven's Court
 tags: []
-date: '2019-10-19T04:00:00.000Z'
+date: '2019-10-20T04:00:00.000Z'
 key: 'dharma-of-heavens-court'
 ---
 
