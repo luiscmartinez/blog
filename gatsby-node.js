@@ -7,8 +7,8 @@ exports.createPages = ({ graphql, actions }) => {
     const { createPage } = actions;
 
     return new Promise((resolve, reject) => {
-        const blogPost = path.resolve('./src/templates/blog-post.js');
-        const blogIndex = path.resolve('./src/templates/index.js');
+        const BlogPost = path.resolve('./src/templates/blog-post.js');
+        const BlogIndex = path.resolve('./src/templates/index.js');
         const postsInAPage = 5;
         resolve(
             graphql(
@@ -43,7 +43,7 @@ exports.createPages = ({ graphql, actions }) => {
                 _.times(pageCount, index => {
                     createPage({
                         path: paginationPath(index, pageCount, '/'),
-                        component: blogIndex,
+                        component: BlogIndex,
                         context: {
                             skip: index * postsInAPage,
                             limit: postsInAPage,
@@ -62,7 +62,7 @@ exports.createPages = ({ graphql, actions }) => {
 
                     createPage({
                         path: post.node.fields.slug,
-                        component: blogPost,
+                        component: BlogPost,
                         context: {
                             slug: post.node.fields.slug,
                             previous,
