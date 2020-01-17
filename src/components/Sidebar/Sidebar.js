@@ -82,15 +82,6 @@ class Sidebar extends React.Component {
                     >
                         Home
                     </SidebarLink>
-
-                    <SidebarLink
-                        to="https://github.com/luiscmartinez/blog"
-                        external={true}
-                        alt={true}
-                        clickHandler={this.toggleSidebar}
-                    >
-                        Source
-                    </SidebarLink>
                 </div>
             </div>
         );
