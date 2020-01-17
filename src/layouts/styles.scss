@@ -313,6 +313,7 @@ body,
 
 .expanded {
     .post-matter.zoomed {
+        height: 95px;
         img {
             width: 45em;
         }
@@ -330,7 +331,6 @@ body,
 }
 
 .post-created {
-    padding-bottom: 2em;
     color: $dimtext;
 }
 
@@ -409,7 +409,6 @@ body,
     .post-matter,
     .post-matter.zoomed {
         flex-direction: column;
-
         .post-preview {
             min-width: 100%;
             max-width: 100%;
