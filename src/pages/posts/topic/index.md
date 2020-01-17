@@ -5,7 +5,7 @@ date: '2020-01-15T01:00:00.000Z' # 3:40 AM
 key: 'topic'
 ---
 
-# Discussing main topic of Web blog:
+# MainTop → The Mysterious Universe:
 
 I will write about own experiences and knowledge of Metaphysics. What is meta? Meta = over and beyond.  Metaphysics is the study of "philosophy that deals with the first principles of things, including abstract concepts such as being, knowing, substance, cause, identity, time, and space".
 
