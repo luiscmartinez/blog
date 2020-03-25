@@ -7,7 +7,7 @@ key: 'topic'
 
 # MainTopic → The Mysterious Universe:
 
-I will write about own experiences and knowledge of Metaphysics. What is meta? Meta = over and beyond.  Metaphysics is the study of "philosophy that deals with the first principles of things, including abstract concepts such as being, knowing, substance, cause, identity, time, and space".
+The knowledge of reality.
 
 ##### Systems
 
@@ -15,7 +15,7 @@ For every profession, career: there is a program
 
 Person wants enter career, profession → 
 
-Person follows a program. -> A Program -> educational system. For example: Educational program of Berkeley. Educational program of Lambda.
+Person follows a program. -> A Program -> educational system. For example: Educational program of Berkeley. Educational program of <University>.
 
 Person → becomes a student
 
@@ -51,6 +51,5 @@ Dream of dead relative
 
 Seen {ghost, demon, satin}
 
-Seen {religious figure, Jesus Christ, Saint, Buddha, Virgin Mary }
 
-## All = principles of “metaphysics”
+## All = reality
