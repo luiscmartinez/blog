@@ -78,7 +78,7 @@ class BlogPostTemplate extends React.Component {
                             )}
                             <br />
                             <br />
-                            <DiscussionEmbed
+                            {/* <DiscussionEmbed
                                 shortname={
                                     this.props.data.site.siteMetadata.disqusId
                                 }
@@ -87,7 +87,7 @@ class BlogPostTemplate extends React.Component {
                                     identifier: post.id,
                                     url: `${this.props.data.site.siteMetadata.siteUrl}${post.fields.slug}`,
                                 }}
-                            />
+                            /> */}
                             <NoScript />
                         </div>
                     </div>
