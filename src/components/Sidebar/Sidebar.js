@@ -66,13 +66,12 @@ class Sidebar extends React.Component {
                         </div>
                     </div>
                     <div className="sidebartext">
-                        Hi, I&apos;m Luis Martinez. <br />I am a student of The
-                        End Science: Metaphysics. If you want to get in touch{' '}
+                        Hi, I&apos;m Anthony Long, PD.D ECON
                         <br />
+                        For any questions or revalations <br />
                         <a href="mailto:mrluismartinezzz@gmail.com">
-                            send me an email
+                            get in contact with me through email
                         </a>
-                        .
                     </div>
                     <SidebarLink
                         to="/"
