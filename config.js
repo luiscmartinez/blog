@@ -11,7 +11,7 @@ const noConfig = variable => {
 
 // Set the corresponding environment variables, or replace the values here before using it in your environment.
 module.exports = {
-    TITLE: 'Metaphysics' || noConfig('TITLE'), // Required
+    TITLE: 'Reality Thinking' || noConfig('TITLE'), // Required
     AUTHOR: 'Dr. Anthony Long' || noConfig('AUTHOR'), // Required
     URL: 'https://www.theendsciencemetaphysics.com' || noConfig('URL'), // Required
     EMAIL: 'drlong18@gmail.com' || noConfig('EMAIL'), // Required
