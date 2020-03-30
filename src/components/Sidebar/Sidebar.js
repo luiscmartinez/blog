@@ -69,7 +69,7 @@ class Sidebar extends React.Component {
                         Hi, I&apos;m Anthony Long, PD.D ECON
                         <br />
                         For any questions or revalations <br />
-                        <a href="mailto:mrluismartinezzz@gmail.com">
+                        <a href="mailto:drlong18@gmail.com">
                             get in contact with me through email
                         </a>
                     </div>
