@@ -12,9 +12,9 @@ const noConfig = variable => {
 // Set the corresponding environment variables, or replace the values here before using it in your environment.
 module.exports = {
     TITLE: 'Reality Thinking' || noConfig('TITLE'), // Required
-    AUTHOR: 'Dr. Anthony Long' || noConfig('AUTHOR'), // Required
-    URL: 'https://www.theendsciencemetaphysics.com' || noConfig('URL'), // Required
-    EMAIL: 'drlong18@gmail.com' || noConfig('EMAIL'), // Required
+    AUTHOR: 'Luis Martinez' || noConfig('AUTHOR'), // Required
+    URL: 'https://luis.realitythinking.net' || noConfig('URL'), // Required
+    EMAIL: 'mrluismartinezzz@gmail.com' || noConfig('EMAIL'), // Required
     DESCRIPTION: 'Invoking thoughts about reality' || noConfig('DESCRIPTION'), // Required
     FATHOMSITEID: 'FATHOMSITEID' || noConfig('FATHOMSITEID'), // Required
     DISQUSSHORTNAME: 'theendsciencemetaphysics' || noConfig('DISQUSSHORTNAME'), // Required
