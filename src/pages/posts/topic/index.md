@@ -37,7 +37,6 @@ All living creatures from human beings to viruses, cells are granted the favor o
 ### The divinity opens your heart and mind to develop your correct thinking
 
 Strange, odd phenomena cannot be explained by the language of physical scientists. Phenomena such as self-igniting fires, appearances of 100-year-old ghosts, an ancestor coming into a family member to teach the family to change their current way of living into a virtuous one. Are all  phenomena directed by divinity from behind the scenes to lead human beings to know the existence of the divinity and to understand the reality. Unintentionally, people misunderstand or simply don’t know the turmoil of fame, money, power, miseries, and disasters.
-Email: Drlong18@gmail.com
 
 
 ### You are a human being
