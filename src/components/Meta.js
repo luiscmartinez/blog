@@ -25,7 +25,7 @@ const Meta = ({ metadata }) => {
             <meta
                 property="og:image"
                 content={
-                    'https://i.imgur.com/yHDpur8.png' || '/images/preview.png'
+                    'https://i.imgur.com/Jh3WGSy.png' || '/images/preview.png'
                 }
             />
             <meta property="og:description" content={metadata.description} />
@@ -35,14 +35,14 @@ const Meta = ({ metadata }) => {
             <meta name="twitter:description" content={metadata.description} />
             <meta
                 name="twitter:image"
-                content={'https://i.imgur.com/yHDpur8.png'}
+                content={'https://i.imgur.com/Jh3WGSy.png'}
             />
             <meta itemprop="name" content={metadata.title} />
             <meta itemprop="description" content={metadata.description} />
             <meta
                 itemprop="image"
                 content={
-                    'https://i.imgur.com/yHDpur8.png' || '/images/preview.png'
+                    'https://i.imgur.com/Jh3WGSy.png' || '/images/preview.png'
                 }
             />
 
